@@ -1,0 +1,11 @@
+// childprocess
+// FFmpeg pipe stream
+// Convert chunk
+// Map brightness
+// Ascii frame text
+// Write frame to terminal (process or readline);
+// Control fps 
+// handle terminal scaling
+// multithreading
+
+
